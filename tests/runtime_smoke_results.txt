@@ -1,0 +1,27 @@
+PASS app boots on cover
+PASS begin enters first scene
+PASS chapter index is available from the reader controls
+PASS Chapter One boundary displays the Observer decision
+PASS Chapter Two cannot be entered before the first decision
+PASS first Observer decision records TRANSMIT and unlocks continuation
+PASS first Observer decision persists to save data
+PASS first decision locks both options after selection
+PASS WITHHOLD is also selectable and records the alternative route
+PASS WITHHOLD route is persisted
+PASS continuation after decision enters Chapter Two
+PASS chapter index offers all reached chapters
+PASS a previously reached chapter can be selected directly
+PASS replay starts at the selected previous chapter
+PASS saved reading position survives replay navigation
+PASS replay does not auto-unlock evidence
+PASS replay cannot archive new evidence
+PASS reset cannot clear progress during replay
+PASS chapter-break position is saved
+PASS Arc One end-screen position is saved
+PASS corrupt save scene index is clamped
+PASS corrupt evidence and choices are filtered
+PASS four Observer route summaries are distinct
+PASS conditional story text only appears on matching route
+PASS all four Observer routes match and render only their own conditional block in Chapters 15 and 16
+PASS each Observer route has a distinct consequence in Chapters 15 and 16
+PASS route summaries preserve four distinct cumulative outcomes

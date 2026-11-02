@@ -1,0 +1,19 @@
+{
+  "chapterCount": 16,
+  "sceneCount": 133,
+  "evidenceCount": 30,
+  "artMappings": 94,
+  "assetReferences": 124,
+  "pendingPlannedArtworkRefs": 64,
+  "htmlIds": 68,
+  "directDomIdsChecked": 117,
+  "checks": {
+    "save-state validation": true,
+    "replay blocks evidence writes": true,
+    "replay blocks comparison history writes": true,
+    "replay blocks auto-unlock writes": true,
+    "replay blocks reset action": true,
+    "missing artwork handled": true
+  },
+  "errors": []
+}
