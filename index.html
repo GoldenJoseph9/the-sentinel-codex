@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#080d14">
+<title>The Sentinel Codex — Reader Edition</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="ambient" aria-hidden="true"></div>
+<header class="topbar">
+  <a class="brand" href="#top" aria-label="The Sentinel Codex home"><span class="sigil">◈</span> THE SENTINEL <em>CODEX</em></a>
+  <div class="top-right">
+    <span id="status">ARCHIVE / UNREGISTERED</span>
+    <button id="chaptersButton" class="quiet" aria-haspopup="dialog" aria-controls="chapterNavigator">CHAPTERS</button>
+    <button id="returnProgressButton" class="quiet hidden" type="button">RETURN TO SAVED PLACE</button>
+    <button id="audioButton" class="quiet" aria-pressed="false" title="Enable optional sound">SOUND OFF</button>
+    <button id="notesButton" class="quiet">EVIDENCE <span id="count">0</span></button>
+  </div>
+</header>
+<div class="progress" id="progressBar" role="progressbar" aria-label="Story progress" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><div id="progressFill"></div></div>
+<main id="top">
+<div id="replayNotice" class="replay-notice hidden" role="status">REPLAY MODE · Your saved reading position and decisions are protected. <button id="exitReplayButton" class="quiet" type="button">RETURN TO SAVED PLACE</button></div>
+<section class="cover" id="cover">
+  <div class="eyebrow">RESTRICTED ACCESS · CASE 0017</div>
+  <div class="cover-art" aria-hidden="true"><div class="halo"></div><div class="door"></div><div class="figure"></div><div class="glyph">◈</div></div>
+  <h1>THE SENTINEL<br><span>CODEX</span></h1>
+  <p class="subtitle">REALITY'S EDGE <span>—</span> INTERACTIVE EDITION</p>
+  <div class="rule"></div>
+  <h2>The Man Who Never Existed</h2>
+  <p class="cover-copy">Some records are not meant to survive their own history.</p>
+  <button id="begin" class="primary">ENTER THE ARCHIVE <span>↗</span></button>
+  <p class="micro">Symbolic illustrated edition · Optional sound · Progress saved on this device</p>
+</section>
+<section class="reader hidden" id="reader" aria-live="polite">
+  <div class="chapter-meta"><span id="sceneLabel">01 / THE DOCUMENT</span><span id="clock">16 OCT · 23:47</span></div>
+  <figure id="sceneVisual" class="scene-visual">
+    <img id="sceneImage" src="assets/archive.jpg" alt="Scene illustration" loading="eager">
+    <figcaption id="sceneCaption"></figcaption>
+  </figure>
+  <article id="story" tabindex="-1"></article>
+  <div id="evidencePrompt" class="evidence-prompt hidden"></div>
+  <div class="audio-cue"><button id="replaySound" class="quiet" disabled>↻ PLAY SCENE CUE</button><span id="audioStatus" aria-live="polite">Sound is off</span></div><div class="reader-controls"><button id="previous" class="quiet">← PREVIOUS</button><button id="readerChaptersButton" class="quiet" type="button">CHAPTERS</button><span id="pageNumber"></span><button id="next" class="primary">CONTINUE →</button></div>
+</section>
+<section id="chapterBreak" class="end hidden">
+  <div class="eyebrow" id="breakChapterTitle">CHAPTER ONE · COMPLETE</div>
+  <div class="end-mark">◈</div>
+  <h2 id="breakHeading">YOU ARE NOT THE ONLY ONE WHO REMEMBERS.</h2>
+  <p id="breakText">Before the story continues, decide what the Codex may learn from your recovered evidence.</p>
+
+  <div id="observerDecision" class="decision">
+    <div class="eyebrow">UNREGISTERED OBSERVER · ACCESS REQUEST</div>
+    <p>The Codex requests access to the records you recovered. Transmitting lets it correlate these findings with later evidence. Withholding keeps your archive on this device, leaving any connections for you to make privately. This changes what the Codex can establish—not Javis’s actions or anyone’s right to exist.</p>
+    <div class="decision-buttons">
+      <button class="primary" id="transmit">TRANSMIT FINDINGS</button>
+      <button class="quiet" id="withhold">WITHHOLD FINDINGS</button>
+    </div>
+    <div id="decisionResult" aria-live="polite"></div>
+  </div>
+
+  <button id="continueChapterTwo" class="primary" disabled>ENTER NEXT CHAPTER →</button>
+</section>
+
+<!-- ARC ONE END SCREEN — summarizes the cumulative Observer decision route -->
+<section class="end hidden" id="end">
+  <div class="eyebrow">ARC ONE · COMPLETE</div>
+  <div class="end-mark">◈</div>
+  <h2>DON’T TRUST THE ONE WHO REMEMBERS.</h2>
+  <p>The story pauses. The Codex has recorded your final directive.</p>
+
+  <div id="finalObserverDecision" class="decision" style="max-width: 600px; text-align: left;">
+    <div class="eyebrow">OBSERVER DIRECTIVE · ARCHIVE CONFLICT: 009</div>
+    <p style="font-size: 13px; margin-bottom: 20px;">Two records contradicted one another. The Continuum recognized one subject. An independent observation recorded two.</p>
+    <div id="finalDecisionResult" aria-live="polite" style="font-size: 15px; line-height: 1.7;"></div>
+  </div>
+
+  <div id="endButtons" style="margin-top: 20px;">
+    <button id="feedback" class="quiet">DOWNLOAD TEST NOTES ↧</button>
+    <button id="reset" class="quiet">RESET READING PROGRESS</button>
+  </div>
+</section>
+</main>
+
+
+<aside id="chapterNavigator" class="chapter-navigator hidden" role="dialog" aria-modal="true" aria-labelledby="chapterNavigatorTitle" aria-describedby="chapterNavigatorHelp">
+  <div class="chapter-navigator-card">
+    <div class="chapter-navigator-head"><div><div class="eyebrow">ARCHIVE INDEX</div><h2 id="chapterNavigatorTitle">RETURN TO A CHAPTER</h2></div><button id="closeChapterNavigator" class="close" aria-label="Close chapter index">✕</button></div>
+    <p id="chapterNavigatorHelp" class="micro">Revisit chapters you've reached. Replay does not overwrite your saved position or change recorded decisions.</p>
+    <div id="chapterList" class="chapter-list"></div>
+  </div>
+</aside>
+
+<!-- IMMERSIVE CODEX -->
+<section class="codex-screen hidden" id="codex-screen">
+  <div class="codex-header">
+    <div class="codex-title">
+      <span class="sigil">◈</span>
+      <h1>THE CODEX <span class="codex-status">// UNREGISTERED</span></h1>
+    </div>
+    <button class="close-codex" id="closeCodex">CLOSE ARCHIVE ✕</button>
+  </div>
+  <div class="codex-content">
+    <div class="codex-grid-panel">
+      <p class="empty-state" id="emptyState">No records recovered. Investigate the archive to reveal connections.</p>
+      <div id="evidenceGrid" class="evidence-grid"></div>
+    </div>
+    <div class="codex-deductions-panel">
+      <h3>RECORD CORRELATIONS</h3>
+      <p class="micro" style="margin-bottom: 20px;">Observations supported by records you have recovered. Interpretations may remain uncertain.</p>
+      <div id="deductionsList" class="deductions-list"></div>
+      <section class="investigation-tools" aria-label="Compare evidence">
+        <h3>COMPARE RECORDS</h3>
+        <p class="micro">Choose two recovered records. Comparison is optional.</p>
+        <label for="compareFirst">First record</label>
+        <select id="compareFirst"></select>
+        <label for="compareSecond">Second record</label>
+        <select id="compareSecond"></select>
+        <button type="button" class="quiet" id="compareEvidence">COMPARE</button>
+        <p id="comparisonResult" class="micro" role="status" aria-live="polite"></p>
+        <h3>OBSERVER RECORD</h3>
+        <p id="codexObserverRecord" class="micro"></p>
+        <p id="observerRouteResult" class="micro hidden" role="status" aria-live="polite"></p>
+      </section>
+    </div>
+  </div>
+</section>
+
+<!-- EVIDENCE MODAL -->
+<div class="modal hidden" id="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+  <div class="modal-card" id="modalCard">
+    <div class="modal-top">
+      <span class="eyebrow" id="modalTypeLabel">RESTRICTED RECORD</span>
+      <button id="closeModal" class="close" aria-label="Close record">✕</button>
+    </div>
+
+    <div id="modalVisualContainer" class="modal-visual-container">
+      <img id="modalImage" src="" alt="Evidence visual">
+    </div>
+
+    <div class="modal-info">
+      <h2 id="modalTitle"></h2>
+      <div id="modalBody" class="modal-body-content"></div>
+      <div id="modalAnalysis" class="evidence-analysis"></div>
+      <button id="saveEvidence" class="primary">ARCHIVE FINDING +</button>
+    </div>
+  </div>
+</div>
+
+<footer>THE SENTINEL CODEX <span>·</span> READER EDITION</footer>
+
+<script src="js/manifest.js"></script>
+<script src="js/data.js"></script>
+<script src="js/chapter1.js"></script>
+<script src="js/chapter2.js"></script>
+<script src="js/chapter3.js"></script>
+<script src="js/chapter4.js"></script>
+<script src="js/chapter5.js"></script>
+<script src="js/chapter6.js"></script>
+<script src="js/chapter7.js"></script>
+<script src="js/chapter8.js"></script>
+<script src="js/chapter9.js"></script>
+<script src="js/chapter10.js"></script>
+<script src="js/chapter11.js"></script>
+<script src="js/chapter12.js"></script>
+<script src="js/chapter13.js"></script>
+<script src="js/chapter14.js"></script>
+<script src="js/chapter15.js"></script>
+<script src="js/chapter16.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

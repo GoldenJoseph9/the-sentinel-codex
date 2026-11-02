@@ -1,0 +1,134 @@
+﻿global_scene_index,chapter,scene,scene_title,priority,filename,status
+0,1,1,The Man Who Never Existed,Existing,(existing asset retained),Integrated
+1,1,2,The Other Voice,Existing,(existing asset retained),Integrated
+2,1,3,No Valid History,Existing,(existing asset retained),Integrated
+3,1,4,Sixteen Previous Attempts,Existing,(existing asset retained),Integrated
+4,1,5,The Professor and His Escort,Existing,(existing asset retained),Integrated
+5,1,6,The Forgotten Staircase,Existing,(existing asset retained),Integrated
+6,1,7,What Remembers,Existing,(existing asset retained),Integrated
+7,1,8,The Unregistered,Existing,(existing asset retained),Integrated
+8,2,1,The Second Between Seconds,Existing,(existing asset retained),Integrated
+9,2,2,The Man in the Photograph,Existing,(existing asset retained),Integrated
+10,2,3,The Hunters,Existing,(existing asset retained),Integrated
+11,2,4,The Door That Wasn’t There,Existing,(existing asset retained),Integrated
+12,2,5,The Wrong Question,Existing,(existing asset retained),Integrated
+13,2,6,A Place Without Records,Existing,(existing asset retained),Integrated
+14,2,7,The Seventeenth Attempt,Existing,(existing asset retained),Integrated
+15,3,1,The Room Without Records,Existing,(existing asset retained),Integrated
+16,3,2,Anchors and Debts,Existing,(existing asset retained),Integrated
+17,3,3,The Workshop,Existing,(existing asset retained),Integrated
+18,3,4,The First Weave,Existing,(existing asset retained),Integrated
+19,3,5,The Memory Spindle,Existing,(existing asset retained),Integrated
+20,3,6,The Unmaking,Existing,(existing asset retained),Integrated
+21,4,1,Another Face,Existing,(existing asset retained),Integrated
+22,4,2,The Cost of a Small Thing,Existing,(existing asset retained),Integrated
+23,4,3,The Question Nobody Answered,Existing,(existing asset retained),Integrated
+24,4,4,Sixteen,Existing,(existing asset retained),Integrated
+25,4,5,The Wrong Memory,Existing,(existing asset retained),Integrated
+26,5,1,The Price of Staying,Existing,(existing asset retained),Integrated
+27,5,2,The Voice Behind the Door,Existing,(existing asset retained),Integrated
+28,5,3,A Door That Wasn't There,Existing,(existing asset retained),Integrated
+29,6,1,"Morning, Eventually",Existing,(existing asset retained),Integrated
+30,6,2,A Table for Three,Optional,ch06_s02_a_table_for_three.webp,Awaiting artwork
+31,6,3,The Plan,Text-only,—,No illustration planned
+32,6,4,What Mara Kept,Optional,ch06_s04_what_mara_kept.webp,Awaiting artwork
+33,6,5,An Old Friend,Text-only,—,No illustration planned
+34,6,6,The Cost of a Plan,Text-only,—,No illustration planned
+35,6,7,The Message,Optional,ch06_s07_the_message.webp,Awaiting artwork
+36,7,1,The Morning After,Text-only,—,No illustration planned
+37,7,2,A Different Way In,Text-only,—,No illustration planned
+38,7,3,The Woman in the Catalogue,Essential,ch07_s03_the_woman_in_the_catalogue.webp,Awaiting artwork
+39,7,4,An Unfinished Debt,Optional,ch07_s04_an_unfinished_debt.webp,Awaiting artwork
+40,7,5,The Choice,Text-only,—,No illustration planned
+41,7,6,The Connection,Text-only,—,No illustration planned
+42,7,7,The Empty Annex,Essential,ch07_s07_the_empty_annex.webp,Awaiting artwork
+43,7,8,The Record That Moved,Essential,ch07_s08_the_record_that_moved.webp,Awaiting artwork
+44,8,1,The Morning Report,Text-only,—,No illustration planned
+45,8,2,The Man at the Gate,Optional,ch08_s02_the_man_at_the_gate.webp,Awaiting artwork
+46,8,3,An Ordinary Man,Text-only,—,No illustration planned
+47,8,4,The Report,Text-only,—,No illustration planned
+48,8,5,The Visit,Optional,ch08_s05_the_visit.webp,Awaiting artwork
+49,8,6,The Wrong Person,Text-only,—,No illustration planned
+50,8,7,The Second Report,Text-only,—,No illustration planned
+51,8,8,What the Codex Kept,Optional,ch08_s08_what_the_codex_kept.webp,Awaiting artwork
+52,9,1,The Window,Text-only,—,No illustration planned
+53,9,2,The Man Who Said No,Text-only,—,No illustration planned
+54,9,3,The Report That Wasn’t There,Optional,ch09_s03_the_report_that_wasn_t_there.webp,Awaiting artwork
+55,9,4,The Price of a Signature,Text-only,—,No illustration planned
+56,9,5,The Woman Who Didn’t Sign,Text-only,—,No illustration planned
+57,9,6,The Thing That Survived,Essential,ch09_s06_the_thing_that_survived.webp,Awaiting artwork
+58,9,7,The Challenge,Text-only,—,No illustration planned
+59,9,8,The Name on the Record,Optional,ch09_s08_the_name_on_the_record.webp,Awaiting artwork
+60,10,1,Two Hours,Text-only,—,No illustration planned
+61,10,2,The Call That Was Missed,Text-only,—,No illustration planned
+62,10,3,The Old Archivist,Text-only,—,No illustration planned
+63,10,4,The Repository,Essential,ch10_s04_the_repository.webp,Awaiting artwork
+64,10,5,The Fourth Chair,Optional,ch10_s05_the_fourth_chair.webp,Awaiting artwork
+65,10,6,The Witness,Essential,ch10_s06_the_witness.webp,Awaiting artwork
+66,10,7,The Empty Chair,Text-only,—,No illustration planned
+67,10,8,The Record That Remained,Optional,ch10_s08_the_record_that_remained.webp,Awaiting artwork
+68,11,1,The Original,Essential,ch11_s01_the_original.webp,Awaiting artwork
+69,11,2,The Professor,Text-only,—,No illustration planned
+70,11,3,Someone Else Remembers,Text-only,—,No illustration planned
+71,11,4,The Laboratory,Essential,ch11_s04_the_laboratory.webp,Awaiting artwork
+72,11,5,The Plate,Optional,ch11_s05_the_plate.webp,Awaiting artwork
+73,11,6,What Thorne Chose,Text-only,—,No illustration planned
+74,11,7,The Wrong Child,Essential,ch11_s07_the_wrong_child.webp,Awaiting artwork
+75,11,8,The Test,Essential,ch11_s08_the_test.webp,Awaiting artwork
+76,12,1,The Man Who Waited,Text-only,—,No illustration planned
+77,12,2,The Child Thorne Remembered,Optional,ch12_s02_the_child_thorne_remembered.webp,Awaiting artwork
+78,12,3,The First Correction,Essential,ch12_s03_the_first_correction.webp,Awaiting artwork
+79,12,4,The Record of Success,Text-only,—,No illustration planned
+80,12,5,The Things That Remain,Optional,ch12_s05_the_things_that_remain.webp,Awaiting artwork
+81,12,6,The Professor’s Failure,Text-only,—,No illustration planned
+82,12,7,Kaelen’s Decision,Text-only,—,No illustration planned
+83,12,8,The Anchor,Essential,ch12_s08_the_anchor.webp,Awaiting artwork
+84,12,9,The Cost of a Name,Text-only,—,No illustration planned
+85,13,1,The Room Behind the Glass,Essential,ch13_s01_the_room_behind_the_glass.webp,Awaiting artwork
+86,13,2,Cassius’s Room,Optional,ch13_s02_cassius_s_room.webp,Awaiting artwork
+87,13,3,The Letter,Essential,ch13_s03_the_letter.webp,Awaiting artwork
+88,13,4,The Recording,Essential,ch13_s04_the_recording.webp,Awaiting artwork
+89,13,5,The Debt,Optional,ch13_s05_the_debt.webp,Awaiting artwork
+90,13,6,What the Records Couldn’t See,Essential,ch13_s06_what_the_records_couldn_t_see.webp,Awaiting artwork
+91,13,7,The Thing Javis Hadn’t Learned,Text-only,—,No illustration planned
+92,13,8,Mara’s Discovery,Optional,ch13_s08_mara_s_discovery.webp,Awaiting artwork
+93,13,9,The People Outside the Records,Text-only,—,No illustration planned
+94,13,10,The Cost of Leaving,Optional,ch13_s10_the_cost_of_leaving.webp,Awaiting artwork
+95,13,11,The Last Warning,Text-only,—,No illustration planned
+96,14,1,The Promise,Text-only,—,No illustration planned
+97,14,2,Old Acquaintances,Optional,ch14_s02_old_acquaintances.webp,Awaiting artwork
+98,14,3,The Station That Watched,Essential,ch14_s03_the_station_that_watched.webp,Awaiting artwork
+99,14,4,Elias Venn,Text-only,—,No illustration planned
+100,14,5,The Equipment They Abandoned,Essential,ch14_s05_the_equipment_they_abandoned.webp,Awaiting artwork
+101,14,6,What the Observer Remembered,Essential,ch14_s06_what_the_observer_remembered.webp,Awaiting artwork
+102,14,7,The Witness,Optional,ch14_s07_the_witness.webp,Awaiting artwork
+103,14,8,The First Weave,Essential,ch14_s08_the_first_weave.webp,Awaiting artwork
+104,14,9,What Must Be Preserved,Essential,ch14_s09_what_must_be_preserved.webp,Awaiting artwork
+105,14,10,The Archive’s Price,Optional,ch14_s10_the_archive_s_price.webp,Awaiting artwork
+106,14,11,The Door That Wouldn’t Open,Optional,ch14_s11_the_door_that_wouldn_t_open.webp,Awaiting artwork
+107,14,12,The Man Who Stayed,Essential,ch14_s12_the_man_who_stayed.webp,Awaiting artwork
+108,14,13,The Difference Between Existing and Being Recognized,Essential,ch14_s13_the_difference_between_existing_and_being_re.webp,Awaiting artwork
+109,15,1,The Order,Text-only,—,No illustration planned
+110,15,2,A Name in the System,Optional,ch15_s02_a_name_in_the_system.webp,Awaiting artwork
+111,15,3,The Test,Essential,ch15_s03_the_test.webp,Awaiting artwork
+112,15,4,The Thing They Would Not Measure,Text-only,—,No illustration planned
+113,15,5,Eleven Minutes,Optional,ch15_s05_eleven_minutes.webp,Awaiting artwork
+114,15,6,The Record That Survived,Text-only,—,No illustration planned
+115,15,7,The Seventeenth Correction,Essential,ch15_s07_the_seventeenth_correction.webp,Awaiting artwork
+116,15,8,What Are You Willing to Lose?,Essential,ch15_s08_what_are_you_willing_to_lose.webp,Awaiting artwork
+117,15,9,The Moment Between,Essential,ch15_s09_the_moment_between.webp,Awaiting artwork
+118,15,10,Aren’s Decision,Essential,ch15_s10_aren_s_decision.webp,Awaiting artwork
+119,15,11,The Failure Report,Essential,ch15_s11_the_failure_report.webp,Awaiting artwork
+120,15,12,The Cost That Remained,Optional,ch15_s12_the_cost_that_remained.webp,Awaiting artwork
+121,15,13,The Record They Couldn’t Close,Text-only,—,No illustration planned
+122,16,1,The Morning After,Text-only,—,No illustration planned
+123,16,2,The Review,Optional,ch16_s02_the_review.webp,Awaiting artwork
+124,16,3,The Evidence That Survived,Essential,ch16_s03_the_evidence_that_survived.webp,Awaiting artwork
+125,16,4,A Visitation Policy,Essential,ch16_s04_a_visitation_policy.webp,Awaiting artwork
+126,16,5,The Man Who Stayed,Optional,ch16_s05_the_man_who_stayed.webp,Awaiting artwork
+127,16,6,The Things That Could Be Rebuilt,Optional,ch16_s06_the_things_that_could_be_rebuilt.webp,Awaiting artwork
+128,16,7,What the Debt Remembers,Essential,ch16_s07_what_the_debt_remembers.webp,Awaiting artwork
+129,16,8,The Watch,Essential,ch16_s08_the_watch.webp,Awaiting artwork
+130,16,9,Two Brothers,Essential,ch16_s09_two_brothers.webp,Awaiting artwork
+131,16,10,The Codex,Optional,ch16_s10_the_codex.webp,Awaiting artwork
+132,16,11,What Remains,Essential,ch16_s11_what_remains.webp,Awaiting artwork
