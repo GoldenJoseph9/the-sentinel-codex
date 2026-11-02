@@ -1,0 +1,2 @@
+Place your finished .webp illustrations in this folder using the exact filenames in ILLUSTRATION_MANIFEST.csv.
+Missing files are automatically hidden; no code changes needed.
