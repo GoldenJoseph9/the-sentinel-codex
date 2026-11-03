@@ -1,0 +1,378 @@
+{
+  "0": {
+    "img": "assets/archive.jpg",
+    "cap": "THE UNIVERSITY ARCHIVE · AFTER HOURS"
+  },
+  "1": {
+    "img": "assets/archive.jpg",
+    "cap": "THE ARCHIVE CORRIDOR"
+  },
+  "2": {
+    "img": "assets/archive.jpg",
+    "cap": "CORRUPTED RECORDS"
+  },
+  "3": {
+    "img": "assets/archive.jpg",
+    "cap": "THE RESTRICTED SECTION"
+  },
+  "4": {
+    "img": "assets/archive.jpg",
+    "cap": "SECURITY OVERRIDE"
+  },
+  "5": {
+    "img": "assets/staircase.jpg",
+    "cap": "THE MAINTENANCE PASSAGE"
+  },
+  "6": {
+    "img": "assets/staircase.jpg",
+    "cap": "SUBLEVEL CHAMBER"
+  },
+  "7": {
+    "img": "assets/tablet.jpg",
+    "cap": "THE UNREGISTERED OBSERVER"
+  },
+  "8": {
+    "img": "assets/staircase.jpg",
+    "cap": "THE SECOND BETWEEN SECONDS"
+  },
+  "9": {
+    "img": "assets/archive.jpg",
+    "cap": "THE MAN IN THE PHOTOGRAPH"
+  },
+  "10": {
+    "img": "assets/alley.jpg",
+    "cap": "THE HUNTERS"
+  },
+  "11": {
+    "img": "assets/alley.jpg",
+    "cap": "THE DOOR THAT WASN'T THERE"
+  },
+  "12": {
+    "img": "assets/alley.jpg",
+    "cap": "THE WRONG QUESTION"
+  },
+  "13": {
+    "img": "assets/safehouse.jpg",
+    "cap": "A PLACE WITHOUT RECORDS"
+  },
+  "14": {
+    "img": "assets/safehouse.jpg",
+    "cap": "THE SEVENTEENTH ATTEMPT"
+  },
+  "15": {
+    "img": "assets/safehouse.jpg",
+    "cap": "FOUR MINUTES"
+  },
+  "16": {
+    "img": "assets/safehouse.jpg",
+    "cap": "THE PRICE OF ESCAPE"
+  },
+  "17": {
+    "img": "assets/archive.jpg",
+    "cap": "THE THREAD"
+  },
+  "18": {
+    "img": "assets/tablet.jpg",
+    "cap": "THE WEAVER'S LESSON"
+  },
+  "19": {
+    "img": "assets/archive.jpg",
+    "cap": "THE WOMAN WHO REMEMBERED"
+  },
+  "20": {
+    "img": "assets/tablet.jpg",
+    "cap": "THE MEMORY THAT WASN'T HIS"
+  },
+  "21": {
+    "img": "assets/staircase.jpg",
+    "cap": "THE MAN WHO REMEMBERED"
+  },
+  "22": {
+    "img": "assets/safehouse.jpg",
+    "cap": "ANOTHER FACE"
+  },
+  "23": {
+    "img": "assets/safehouse.jpg",
+    "cap": "THE COST OF A SMALL THING"
+  },
+  "24": {
+    "img": "assets/safehouse.jpg",
+    "cap": "THE QUESTION NOBODY ANSWERED"
+  },
+  "25": {
+    "img": "assets/tablet.jpg",
+    "cap": "SIXTEEN"
+  },
+  "26": {
+    "img": "assets/tablet.jpg",
+    "cap": "THE WRONG MEMORY"
+  },
+  "27": {
+    "img": "assets/safehouse.jpg",
+    "cap": "THE PRICE OF STAYING"
+  },
+  "28": {
+    "img": "assets/safehouse.jpg",
+    "cap": "THE VOICE BEHIND THE DOOR"
+  },
+  "29": {
+    "img": "assets/safehouse.jpg",
+    "cap": "A DOOR THAT WASN'T THERE"
+  },
+  "30": {
+    "img": "assets/illustrations/ch06_s02_a_table_for_three.webp",
+    "cap": "A TABLE FOR THREE"
+  },
+  "32": {
+    "img": "assets/illustrations/ch06_s04_what_mara_kept.webp",
+    "cap": "WHAT MARA KEPT"
+  },
+  "35": {
+    "img": "assets/illustrations/ch06_s07_the_message.webp",
+    "cap": "THE MESSAGE"
+  },
+  "38": {
+    "img": "assets/illustrations/ch07_s03_the_woman_in_the_catalogue.webp",
+    "cap": "THE WOMAN IN THE CATALOGUE"
+  },
+  "39": {
+    "img": "assets/illustrations/ch07_s04_an_unfinished_debt.webp",
+    "cap": "AN UNFINISHED DEBT"
+  },
+  "42": {
+    "img": "assets/illustrations/ch07_s07_the_empty_annex.webp",
+    "cap": "THE EMPTY ANNEX"
+  },
+  "43": {
+    "img": "assets/illustrations/ch07_s08_the_record_that_moved.webp",
+    "cap": "THE RECORD THAT MOVED"
+  },
+  "45": {
+    "img": "assets/illustrations/ch08_s02_the_man_at_the_gate.webp",
+    "cap": "THE MAN AT THE GATE"
+  },
+  "48": {
+    "img": "assets/illustrations/ch08_s05_the_visit.webp",
+    "cap": "THE VISIT"
+  },
+  "51": {
+    "img": "assets/illustrations/ch08_s08_what_the_codex_kept.webp",
+    "cap": "WHAT THE CODEX KEPT"
+  },
+  "54": {
+    "img": "assets/illustrations/ch09_s03_the_report_that_wasn_t_there.webp",
+    "cap": "THE REPORT THAT WASN’T THERE"
+  },
+  "57": {
+    "img": "assets/illustrations/ch09_s06_the_thing_that_survived.webp",
+    "cap": "THE THING THAT SURVIVED"
+  },
+  "59": {
+    "img": "assets/illustrations/ch09_s08_the_name_on_the_record.webp",
+    "cap": "THE NAME ON THE RECORD"
+  },
+  "63": {
+    "img": "assets/illustrations/ch10_s04_the_repository.webp",
+    "cap": "THE REPOSITORY"
+  },
+  "64": {
+    "img": "assets/illustrations/ch10_s05_the_fourth_chair.webp",
+    "cap": "THE FOURTH CHAIR"
+  },
+  "65": {
+    "img": "assets/illustrations/ch10_s06_the_witness.webp",
+    "cap": "THE WITNESS"
+  },
+  "67": {
+    "img": "assets/illustrations/ch10_s08_the_record_that_remained.webp",
+    "cap": "THE RECORD THAT REMAINED"
+  },
+  "68": {
+    "img": "assets/illustrations/ch11_s01_the_original.webp",
+    "cap": "THE ORIGINAL"
+  },
+  "71": {
+    "img": "assets/illustrations/ch11_s04_the_laboratory.webp",
+    "cap": "THE LABORATORY"
+  },
+  "72": {
+    "img": "assets/illustrations/ch11_s05_the_plate.webp",
+    "cap": "THE PLATE"
+  },
+  "74": {
+    "img": "assets/illustrations/ch11_s07_the_wrong_child.webp",
+    "cap": "THE WRONG CHILD"
+  },
+  "75": {
+    "img": "assets/illustrations/ch11_s08_the_test.webp",
+    "cap": "THE TEST"
+  },
+  "77": {
+    "img": "assets/illustrations/ch12_s02_the_child_thorne_remembered.webp",
+    "cap": "THE CHILD THORNE REMEMBERED"
+  },
+  "78": {
+    "img": "assets/illustrations/ch12_s03_the_first_correction.webp",
+    "cap": "THE FIRST CORRECTION"
+  },
+  "80": {
+    "img": "assets/illustrations/ch12_s05_the_things_that_remain.webp",
+    "cap": "THE THINGS THAT REMAIN"
+  },
+  "83": {
+    "img": "assets/illustrations/ch12_s08_the_anchor.webp",
+    "cap": "THE ANCHOR"
+  },
+  "85": {
+    "img": "assets/illustrations/ch13_s01_the_room_behind_the_glass.webp",
+    "cap": "THE ROOM BEHIND THE GLASS"
+  },
+  "86": {
+    "img": "assets/illustrations/ch13_s02_cassius_s_room.webp",
+    "cap": "CASSIUS’S ROOM"
+  },
+  "87": {
+    "img": "assets/illustrations/ch13_s03_the_letter.webp",
+    "cap": "THE LETTER"
+  },
+  "88": {
+    "img": "assets/illustrations/ch13_s04_the_recording.webp",
+    "cap": "THE RECORDING"
+  },
+  "89": {
+    "img": "assets/illustrations/ch13_s05_the_debt.webp",
+    "cap": "THE DEBT"
+  },
+  "90": {
+    "img": "assets/illustrations/ch13_s06_what_the_records_couldn_t_see.webp",
+    "cap": "WHAT THE RECORDS COULDN’T SEE"
+  },
+  "92": {
+    "img": "assets/illustrations/ch13_s08_mara_s_discovery.webp",
+    "cap": "MARA’S DISCOVERY"
+  },
+  "94": {
+    "img": "assets/illustrations/ch13_s10_the_cost_of_leaving.webp",
+    "cap": "THE COST OF LEAVING"
+  },
+  "97": {
+    "img": "assets/illustrations/ch14_s02_old_acquaintances.webp",
+    "cap": "OLD ACQUAINTANCES"
+  },
+  "98": {
+    "img": "assets/illustrations/ch14_s03_the_station_that_watched.webp",
+    "cap": "THE STATION THAT WATCHED"
+  },
+  "100": {
+    "img": "assets/illustrations/ch14_s05_the_equipment_they_abandoned.webp",
+    "cap": "THE EQUIPMENT THEY ABANDONED"
+  },
+  "101": {
+    "img": "assets/illustrations/ch14_s06_what_the_observer_remembered.webp",
+    "cap": "WHAT THE OBSERVER REMEMBERED"
+  },
+  "102": {
+    "img": "assets/illustrations/ch14_s07_the_witness.webp",
+    "cap": "THE WITNESS"
+  },
+  "103": {
+    "img": "assets/illustrations/ch14_s08_the_first_weave.webp",
+    "cap": "THE FIRST WEAVE"
+  },
+  "104": {
+    "img": "assets/illustrations/ch14_s09_what_must_be_preserved.webp",
+    "cap": "WHAT MUST BE PRESERVED"
+  },
+  "105": {
+    "img": "assets/illustrations/ch14_s10_the_archive_s_price.webp",
+    "cap": "THE ARCHIVE’S PRICE"
+  },
+  "106": {
+    "img": "assets/illustrations/ch14_s11_the_door_that_wouldn_t_open.webp",
+    "cap": "THE DOOR THAT WOULDN’T OPEN"
+  },
+  "107": {
+    "img": "assets/illustrations/ch14_s12_the_man_who_stayed.webp",
+    "cap": "THE MAN WHO STAYED"
+  },
+  "108": {
+    "img": "assets/illustrations/ch14_s13_the_difference_between_existing_and_being_re.webp",
+    "cap": "THE DIFFERENCE BETWEEN EXISTING AND BEING RECOGNIZED"
+  },
+  "110": {
+    "img": "assets/illustrations/ch15_s02_a_name_in_the_system.webp",
+    "cap": "A NAME IN THE SYSTEM"
+  },
+  "111": {
+    "img": "assets/illustrations/ch15_s03_the_test.webp",
+    "cap": "THE TEST"
+  },
+  "113": {
+    "img": "assets/illustrations/ch15_s05_eleven_minutes.webp",
+    "cap": "ELEVEN MINUTES"
+  },
+  "115": {
+    "img": "assets/illustrations/ch15_s07_the_seventeenth_correction.webp",
+    "cap": "THE SEVENTEENTH CORRECTION"
+  },
+  "116": {
+    "img": "assets/illustrations/ch15_s08_what_are_you_willing_to_lose.webp",
+    "cap": "WHAT ARE YOU WILLING TO LOSE?"
+  },
+  "117": {
+    "img": "assets/illustrations/ch15_s09_the_moment_between.webp",
+    "cap": "THE MOMENT BETWEEN"
+  },
+  "118": {
+    "img": "assets/illustrations/ch15_s10_aren_s_decision.webp",
+    "cap": "AREN’S DECISION"
+  },
+  "119": {
+    "img": "assets/illustrations/ch15_s11_the_failure_report.webp",
+    "cap": "THE FAILURE REPORT"
+  },
+  "120": {
+    "img": "assets/illustrations/ch15_s12_the_cost_that_remained.webp",
+    "cap": "THE COST THAT REMAINED"
+  },
+  "123": {
+    "img": "assets/illustrations/ch16_s02_the_review.webp",
+    "cap": "THE REVIEW"
+  },
+  "124": {
+    "img": "assets/illustrations/ch16_s03_the_evidence_that_survived.webp",
+    "cap": "THE EVIDENCE THAT SURVIVED"
+  },
+  "125": {
+    "img": "assets/illustrations/ch16_s04_a_visitation_policy.webp",
+    "cap": "A VISITATION POLICY"
+  },
+  "126": {
+    "img": "assets/illustrations/ch16_s05_the_man_who_stayed.webp",
+    "cap": "THE MAN WHO STAYED"
+  },
+  "127": {
+    "img": "assets/illustrations/ch16_s06_the_things_that_could_be_rebuilt.webp",
+    "cap": "THE THINGS THAT COULD BE REBUILT"
+  },
+  "128": {
+    "img": "assets/illustrations/ch16_s07_what_the_debt_remembers.webp",
+    "cap": "WHAT THE DEBT REMEMBERS"
+  },
+  "129": {
+    "img": "assets/illustrations/ch16_s08_the_watch.webp",
+    "cap": "THE WATCH"
+  },
+  "130": {
+    "img": "assets/illustrations/ch16_s09_two_brothers.webp",
+    "cap": "TWO BROTHERS"
+  },
+  "131": {
+    "img": "assets/illustrations/ch16_s10_the_codex.webp",
+    "cap": "THE CODEX"
+  },
+  "132": {
+    "img": "assets/illustrations/ch16_s11_what_remains.webp",
+    "cap": "WHAT REMAINS"
+  }
+}

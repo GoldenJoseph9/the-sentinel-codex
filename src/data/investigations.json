@@ -1,0 +1,20 @@
+{
+  "attempts|case": "Thorne is named in Case 0017 and the earlier recovery history. His involvement is documented; his motives are not.",
+  "family|tablet": "The tablet claims to remember Javis while his family records change. Whether the two events are causally linked remains unknown.",
+  "photo|revisions": "The revisions describe another Javis; the photograph appears to show a matching figure. The image alone cannot establish identity.",
+  "family|spindle": "The spindle and altered family records both concern Elara. The reason for the changes is not established by these records alone.",
+  "tablet|watch": "The watch stopped at 02:14, matching the termination time recorded in Case 0017. The significance of that match remains unresolved.",
+  "brass_wheel|tablet": "The wheel's change coincides with a Codex exchange reading. The exact mechanism cannot be confirmed from these two records alone.",
+  "family|notebook": "The notebook's handwriting resembles writing associated with Elara. Its provenance remains uncertain.",
+  "nightingale|watch": "Nightingale measures exchange effects; the stopped watch may be relevant, but it has not been independently identified as an exchange signature.",
+  "annex_shipment|demolition": "A shipment record names a site the demolition record says no longer exists. The records conflict; neither establishes what happened on site.",
+  "reed_report|reed_statement": "Reed's official report differs from his private statement. The discrepancy requires explanation; his statement remains subject to his consent.",
+  "cas_shipment|reconciliation_request": "HR-017 cites the Cassius Vale shipment. The relationship between the authorization and correction process warrants examination.",
+  "admission_register|plate": "The admission register and brass plate both distinguish two subjects. Their identifiers correspond.",
+  "admission_register|cassius_letter": "Cassius's letter predates the second registration and alludes to two children. It does not establish what he knew with certainty.",
+  "cassius_recording|plate": "The recording depicts two children; the plate records one retained and one transferred. The records are consistent on that limited point.",
+  "attempts|correction_logs": "Correction logs record removals followed by unregistered returns. The repeated pattern raises questions about whether the underlying condition was resolved.",
+  "exchange_indicator|tablet": "The exchange indicator responds in the presence of both Javis and Aren. The readings alone do not identify the cause.",
+  "portable_unit|station_nine_archive": "The portable unit and Station Nine archive contain complementary reference data. Their combined use still requires validation.",
+  "case|iteration": "CASE 0017 and ITERATION 017 use conflicting status descriptions. The available fields do not establish why."
+}
