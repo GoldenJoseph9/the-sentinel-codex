@@ -1,0 +1,7 @@
+{
+  "name": "The Sentinel Codex",
+  "description": "An interactive illustrated reader for The Sentinel Codex — Arc One: The Man Who Never Existed. Features dynamic chapter navigation, evidence correlation dossier, record comparisons, atmospheric synthesized audio cues, and an Observer decision chain.",
+  "prompt": "Rewrite the imported The Sentinel Codex reader as a React application, preserving all 16 chapters, interactive evidence investigation, observer decision routes, chapter replay, synthesized audio, and atmospheric dark reader experience.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
